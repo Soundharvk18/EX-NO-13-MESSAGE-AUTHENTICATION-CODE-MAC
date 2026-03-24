@@ -62,10 +62,7 @@ return 0;
 
 
 ## Output:
-<img width="790" height="230" alt="Screenshot 2026-03-24 141638" src="https://github.com/user-attachments/assets/d9819397-b105-4840-b00d-9dbaeb32781d" />
-
-
-
+<img width="1647" height="756" alt="image" src="https://github.com/user-attachments/assets/7022b79d-13b1-4025-8607-01fcb93e9292" />
 
 ## Result:
 The program is executed successfully.
